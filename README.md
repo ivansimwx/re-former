@@ -25,6 +25,10 @@ Things you may want to cover:
 
 
 # Some initial steps:
+
+# Start new rails project
+## rails new project_name
+
 # Generate model
 ## bin/rails generate migration CreateUsers username:string email:string password:string
 
